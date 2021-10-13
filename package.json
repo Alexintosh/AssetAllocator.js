@@ -1,9 +1,9 @@
 {
-  "name": "typescript-boilerplate-2021",
-  "version": "0.4.2",
-  "description": "Boilerplate for TypeScript projects (Node.js and browser modules)",
-  "author": "Chris Hager <chris@linuxuser.at>",
-  "repository": "https://github.com/metachris/typescript-boilerplate",
+  "name": "AssetAllocator.js",
+  "version": "0.0.1",
+  "description": "Creates allocation of crypto coins based on market data",
+  "author": "Alessio Delmonti <alessio.d@gmail.com>",
+  "repository": "https://github.com/Alexintosh/AssetAllocator.js",
   "license": "MIT",
   "keywords": [
     "typescript",
