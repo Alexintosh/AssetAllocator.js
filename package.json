@@ -6,9 +6,9 @@
   "repository": "https://github.com/Alexintosh/AssetAllocator.js",
   "license": "MIT",
   "keywords": [
-    "typescript",
-    "boilerplate",
-    "esbuild"
+    "defi",
+    "piedao",
+    "assets"
   ],
   "main": "./dist/tsc/main.js",
   "types": "./dist/tsc/main.d.ts",
@@ -44,5 +44,10 @@
     "ts-node": "^9.1.1",
     "typedoc": "^0.20.35",
     "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "jstat": "^1.9.5",
+    "lodash": "^4.17.21"
   }
 }
